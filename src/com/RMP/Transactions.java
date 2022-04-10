@@ -3,7 +3,7 @@ package com.RMP;
 import java.util.Date;
 
 public class Transactions {
-    String mot;//mot--ModeofTransfer
+    String mot;//mot--Mode of Transfer
     Date date;
     double amount;
     int due,tr_id;
